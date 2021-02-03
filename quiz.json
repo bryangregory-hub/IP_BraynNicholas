@@ -1,0 +1,41 @@
+
+
+[
+    {
+        "id": "sorting",
+        "questions":"Which trait do you associate with more",
+        "answers": [
+            {
+                "Hufflepuff":"Good",
+                "Slytherin":"Great",
+                "Ravenclaw":"Wise",
+                "Gryffindor":"Bold"
+            },
+            {
+                "Hufflepuff":"Selfish",
+                "Slytherin":"Ordinary",
+                "Ravenclaw":"Ignorant",
+                "Gryffindor":"Cowardly"
+            },
+            {
+                "Hufflepuff":"Love",
+                "Slytherin":"Power",
+                "Ravenclaw":"Wisdom",
+                "Gryffindor":"Glory"
+            },
+            {
+                "Hufflepuff":"Miss me and smile",
+                "Slytherin":"Opinions matters when alive",
+                "Ravenclaw":"Think of achievements",
+                "Gryffindor":"Think of adventure"
+            }
+        ],
+        "correctans":"Hufflepuff",
+        "correctans": "Slytherin",
+        "correctans": "Ravenclaw",
+        "correctans": "Gryffindor"
+        
+        
+    }
+    
+]
