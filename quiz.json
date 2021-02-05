@@ -1,5 +1,4 @@
 
-
 [
     {
         "id": "sorting",
@@ -63,13 +62,28 @@
     },
     {
         "id": "sorting",
-        "questions":"When entering the school what would u be most excited to learn",
+        "questions":"Which nightmare would frighten you most",
         "answers": 
             {
-                "Hufflepuff":"Magical Creatures",
-                "Slytherin":"Hexes and Jinxes",
-                "Ravenclaw":"Transfiguration",
-                "Gryffindor":"Castle secrets"
+                "Hufflepuff":"Waking up to find that all memories of you is lost and no one knows who you are",
+                "Slytherin":"Being forced to speak in a silly voice and everyone laughs at you",
+                "Ravenclaw":"At a very higt point with no barriers to stop you from falling",
+                "Gryffindor":"A locked room with only a keyhole visible and an eye staring at you through it"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"When you have past what would you like people to do when they hear your name",
+        "answers": 
+            {
+                "Hufflepuff":"Miss you, but smile",
+                "Slytherin":"Does not matter since im already dead, what matters is what people think of me when im alive",
+                "Ravenclaw":"Think with admiration of your achievements",
+                "Gryffindor":"Ask to hear more stories about your adventures"
             },
         "correctans1":"Hufflepuff",
         "correctans2": "Slytherin",
