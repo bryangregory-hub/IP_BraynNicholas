@@ -1,4 +1,5 @@
 
+
 [
     {
         "id": "sorting",
@@ -89,7 +90,36 @@
         "correctans2": "Slytherin",
         "correctans3": "Ravenclaw",
         "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"Which of these descriptions make you feel at ease or intrigued?",
+        "answers": 
+            {
+                "Hufflepuff":"Wide sunny grassy path",
+                "Slytherin":"Lantern-lit alley",
+                "Ravenclaw":"Cobbled ancient buildings path",
+                "Gryffindor":"Twisting woodsy path"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"You are enrolled in Hogarts! Which area of magic are you most excited to learn?",
+        "answers": 
+            {
+                "Hufflepuff":"Magical Creatures",
+                "Slytherin":"Hexes and Jinxes",
+                "Ravenclaw":"Every area of magic",
+                "Gryffindor":"Castle secrets"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
     }
-    
     
 ]
