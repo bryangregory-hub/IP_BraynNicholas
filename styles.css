@@ -6076,6 +6076,22 @@ a.close.disabled {
   background-color: #1abc9c !important;
 }
 
+.bg-gry {
+  background-color: #AD2d40 !important;
+}
+
+.bg-rav {
+  background-color: #005278 !important;
+}
+
+.bg-huff {
+  background-color: #afb502 !important;
+}
+
+.bg-sly {
+  background-color: #196313 !important;
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
