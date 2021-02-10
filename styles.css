@@ -393,6 +393,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  text-align: center;
 }
 
 .display-1 {
@@ -6070,6 +6071,10 @@ a.close.disabled {
 
 .align-text-top {
   vertical-align: text-top !important;
+}
+
+.bg-quiz{
+  background-color: #005378;
 }
 
 .bg-primary {
