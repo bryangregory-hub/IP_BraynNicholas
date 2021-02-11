@@ -48,10 +48,12 @@
     <!--quiz section-->
     <section class="page-section bg-gry text-white mb-0" id="about">
         <div class="container">
+            <button id="startbtn" class="btn">Start</button>
             <div id="question1">How would you describe yourself?</div>
             <div id="answers">
-            <button id="1btn1" class="btn" onclick="btncolor()">test</button>
-            <button id="1btn2" class="btn">Answer2</button>
+                <div></div>
+            <button id="1btn1" class="btn" onclick="correctAns()"value="">test</button>
+            <button id="1btn2" class="btn correct">Answer2</button>
             <button class="btn">Answer3</button>
             <button class="btn">Answer4</button>
         </div>
@@ -145,7 +147,19 @@
             <button class="btn">Answer3</button>
             <button class="btn">Answer4</button>
         </div>
+
+        <button id="submitquiz">Submit!</button>
     </section>
     <script src="quizscript.js"></script>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+    <!-- Modal content -->
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <p>Some text in the Modal..</p>
+    </div>
+  
+  </div>
 </body>
 </html>
