@@ -390,10 +390,17 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.househeading {
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
+  font-size: 4rem;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 
 .display-1 {
@@ -6131,6 +6138,10 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #1abc9c !important;
+}
+
+.bg-wand {
+  background-color: purple;
 }
 
 .bg-gry {
