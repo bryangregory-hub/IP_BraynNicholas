@@ -120,6 +120,51 @@
         "correctans2": "Slytherin",
         "correctans3": "Ravenclaw",
         "correctans4": "Gryffindor"
+    },
+    {
+        "id": "quiz1",
+        "questions":"What is the name of the ghost who was killed by an axe?",
+        "answers":{
+            "a":"Sir Nicholas",
+            "b":"Moaning Myrtle"
+        },
+        "correctans":"a"
+    },
+    {
+        "id":"quiz1",
+        "questions":"You have arrived at Hogwarts and see a group of students walk past. They are wearing silver and green robes. Which animal is their house mascot?",
+        "answers":{
+            "a":"Lion",
+            "b":"Eagle",
+            "c":"Serpent",
+            "d":"Badger"
+        },
+        "correctans":"c"
+    },
+    {
+        "id":"",
+        "questions":"",
+        "answers":{
+
+        },
+        "correctans":""
+    },
+    {
+        "id":"",
+        "questions":"",
+        "answers":{
+
+        },
+        "correctans":""
+    },
+    {
+        "id":"",
+        "questions":"",
+        "answers":{
+
+        },
+        "correctans":""
     }
+    
     
 ]
