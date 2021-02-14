@@ -142,29 +142,84 @@
         "correctans":"c"
     },
     {
-        "id":"",
-        "questions":"",
+        "id":"quiz1",
+        "questions":"Who is the head of Ravenclaw house?",
         "answers":{
-
+            "a":"Minerva McGonagall",
+            "b":"Pomona Sprout",
+            "c":"Filius Flitwick",
+            "d":"Severus Snape"
         },
-        "correctans":""
+        "correctans":"c"
     },
     {
-        "id":"",
-        "questions":"",
+        "id":"quiz1",
+        "questions":"How many people founded Hogwarts?",
         "answers":{
-
+            "a":"3",
+            "b":"4",
+            "c":"1",
+            "d":"6"
         },
-        "correctans":""
+        "correctans":"b"
     },
     {
-        "id":"",
-        "questions":"",
+        "id":"quiz1",
+        "questions":"Which two colors make up the Hufflepuff badge?",
         "answers":{
+            "a":"Red and Gold",
+            "b":"Yellow and Black",
+            "c":"Green and Silver",
+            "d":"Blue and Bronze"
+        },
+        "correctans":"b"
+    },
+    {
+        "id":"quiz1",
+        "questions":"What/who divides students into the different houses?",
+        "answers":{
+            "a":"Professor Dumbledore",
+            "b":"The students get to choose",
+            "c":"Owl postla Service",
+            "d":"The sorting hat"
+        },
+        "correctans":"d"
+    },
+    {
+        "id":"quiz1",
+        "questions":"Which core was infused into Harry Potters Wand?",
+        "answers":{
+            "a":"Unicorn Hair",
+            "b":"Phoenix Feather",
+            "c":"Dragon Heartstring",
+            "d":"Thestral Hair"
+        },
+        "correctans":"c"
+    },
+    {
+        "id":"quiz1",
+        "questions":"Who has never own the Elder wand?",
+        "answers":{
+            "a":"Severus Snape",
+            "b":"Draco Malfoy",
+            "c":"Harry Potter",
+            "d":"voldemort"
 
         },
-        "correctans":""
+        "correctans":"d"
+    },
+    {
+        "id":"quiz1",
+        "questions":"Which of these people is NOT a Muggle?",
+        "answers":{
+            "a":"Hermione Granger",
+            "b":"Luna Lovegood",
+            "c":"Lily J. Potter",
+            "d":"Myrtle Warren"
+        },
+        "correctans":"b"
     }
+
     
     
 ]
