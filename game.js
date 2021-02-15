@@ -84,12 +84,24 @@
 
  //CONSTANTS
  const CORRECT_BONUS = 10;
- const MAX_QUESTIONS =3;
+ const MAX_QUESTIONS =9;
 
  startGame=()=>{
      questionCounter = 0;
      score=0;
      availableQuesions = [ ...questions];
      console.log(availableQuesions);
+     getNewQuestion();
+ }
+ getNewQuestion=()=>{
+   questionCounter++;
+   const questionIndex =Math.floor(Math.random()*availableQuesions.length);
+   currentQuestion=availableQuesions[questionIndex];
+   question.innerText=currentQuestion.questions;
+
+      choices.forEach(choice => {
+         const number = choice.dataset["number"];
+         choice.innerText = currentQuestion["choice"+number];
+      });
  }
  startGame();
