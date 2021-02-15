@@ -2,7 +2,7 @@
  const choices =Array.from( document.getElementsByClassName("choice-text"));
 
  let currentQuestion = {};
- let acceptingAnswers= true;
+ let acceptingAnswers= false;
  let score = 0;
  let questionCounter = 0;
  let availableQuesions=[];
@@ -12,7 +12,9 @@
         questions:"What is the name of the ghost who was killed by an axe?",
         choice1:"Sir Nicholas",
         choice2:"Moaning Myrtle",
-        answer:2
+        choice3:"James Potter",
+        choice4:"Bloody Baron",
+        answer:1
      },
      {
         questions:"You have arrived at Hogwarts and see a group of students walk past. They are wearing silver and green robes. Which animal is their house mascot?",
@@ -90,10 +92,14 @@
      questionCounter = 0;
      score=0;
      availableQuesions = [ ...questions];
-     console.log(availableQuesions);
+     
      getNewQuestion();
  }
  getNewQuestion=()=>{
+    if(availableQuesions.length===0||questionCounter>=MAX_QUESTIONS){
+       //go to the result pg
+       return window.location.assign('end.html')
+    }
    questionCounter++;
    const questionIndex =Math.floor(Math.random()*availableQuesions.length);
    currentQuestion=availableQuesions[questionIndex];
@@ -103,5 +109,29 @@
          const number = choice.dataset["number"];
          choice.innerText = currentQuestion["choice"+number];
       });
+      availableQuesions.splice(questionIndex,1);
+
+      acceptingAnswers=true;
  }
+choices.forEach(choice =>{
+   choice.addEventListener("click",e=>{
+      if(!acceptingAnswers)return;
+
+      acceptingAnswers=false;
+      const selectedChoice=e.target;
+      const selectedAnswer=selectedChoice.dataset["number"];
+
+      const classToApply = 
+      selectedAnswer==currentQuestion.answer?"correct":"incorrect";
+      
+      selectedChoice.parentElement.classList.add(classToApply);
+
+      setTimeout(()=>{
+      selectedChoice.parentElement.classList.remove(classToApply)
+      getNewQuestion();
+
+      },1000);
+   });
+});
+
  startGame();
