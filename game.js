@@ -99,6 +99,7 @@
  }
  getNewQuestion=()=>{
     if(availableQuesions.length===0||questionCounter>=MAX_QUESTIONS){
+       localStorage.setItem('mostRecentScore',score);
        //go to the result pg
        return window.location.assign('end.html')
     }
