@@ -10,7 +10,7 @@
  let availableQuesions=[];
 
  let questions=[];
-fetch("questions.json")
+fetch("quiz.json")
 .then(res=>{
    return res.json();
 })
