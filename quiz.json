@@ -1,74 +1,83 @@
 [
     {
        "questions":"What is the name of the ghost who was killed by an axe?",
-       "choice1":"Sir Nicholas",
-       "choice2":"Moaning Myrtle",
-       "choice3":"James Potter",
-       "choice4":"Bloody Baron",
-       "correctans":1
+       "correct_answer":"Sir Nicholas",
+       "incorrect_answers":[
+       "Moaning Myrtle",
+       "James Potter",
+       "Bloody Baron"
+      ]
     },
     {
        "questions":"You have arrived at Hogwarts and see a group of students walk past. They are wearing silver and green robes. Which animal is their house mascot?",
-       "choice1":"Lion",
-       "choice2":"Eagle",
-       "choice3":"Serpent",
-       "choice4":"Badger",
-       "correctans":3
+       "correct_answer":"Serpent",
+       "incorrect_answers":[
+          "Lion",
+          "Eagle",
+          "Badger"
+       ]
     },
     {
        "questions":"Who is the head of Ravenclaw house?",
-       "choice1":"Minerva McGonagall",
-       "choice2":"Pomona Sprout",
-       "choice3":"Filius Flitwick",
-       "choice4":"Severus Snape",
-       "correctans":3
+       "correct_answer":"Filius Flitwick",
+       "incorrect_answers":[
+      "Minerva McGonagall",
+       "Pomona Sprout",
+       "Severus Snape"
+       ]
     },
     {
        "questions":"How many people founded Hogwarts?",
-       "choice1":"3",
-       "choice2":"4",
-       "choice3":"1",
-       "choice4":"6",
-       "correctans":2
+       "correct_answer":"4",
+       "incorrect_answers":[
+         "3",
+         "1",
+         "6"
+       ]
     },
     {
        "questions":"Which two colors make up the Hufflepuff badge?",
-       "choice1":"Red and Gold",
-       "choice2":"Yellow and Black",
-       "choice3":"Green and Silver",
-       "choice4":"Blue and Bronze",
-       "correctans":2
+       "correct_answer":"Yellow and Black",
+       "incorrect_answers":[
+         "Red and Gold",
+         "Green and Silver",
+         "Blue and Bronze"
+       ]
     },
     {
        "questions":"What/who divides students into the different houses?",
-       "choice1":"Professor Dumbledore",
-       "choice2":"The students get to choose",
-       "choice3":"Owl postla Service",
-       "choice4":"The sorting hat",
-       "correctans":4
+       "correct_answer":"The sorting hat",
+       "incorrect_answers":[
+         "Professor Dumbledore",
+         "The students get to choose",
+         "Owl postla Service"
+       ]
     },
     {
        "questions":"Which core was infused into Harry Potters Wand?",
-       "choice1":"Unicorn Hair",
-       "choice2":"Phoenix Feather",
-       "choice3":"Dragon Heartstring",
-       "choice4":"Thestral Hair",
-       "correctans":3
+       "correct_answer":"Phoenix Feather",
+       "incorrect_answers":[
+         "Unicorn Hair",
+         "Dragon Heartstring",
+         "Thestral Hair"
+       ]
     },
     {
        "questions":"Who has never own the Elder wand?",
-       "choice1":"Severus Snape",
-       "choice2":"Draco Malfoy",
-       "choice3":"Harry Potter",
-       "choice4":"voldemort",
-       "correctans":4
+       "correct_answer":"voldemort",
+       "incorrect_answers":[
+         "Severus Snape",
+         "Draco Malfoy",
+         "Harry Potter"
+       ]
     },
     {
        "questions":"Which of these people is NOT a Muggle?",
-       "choice1":"Hermione Granger",
-       "choice2":"Luna Lovegood",
-       "choice3":"Lily J. Potter",
-       "choice4":"Myrtle Warren",
-       "correctans":2
+       "correct_answer":"Luna Lovegood",
+       "incorrect_answers":[
+         "Hermione Granger",
+         "Lily J. Potter",
+         "Myrtle Warren"
+       ]
     }
  ]
