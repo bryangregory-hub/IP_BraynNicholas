@@ -14,9 +14,13 @@ fetch("quiz.json")
 .then(res=>{
    return res.json();
 })
-.then(loadQuestions=>{
-   questions=loeadedQuestions;
+.then(loadedQuestions=>{
+   console.log(loadedQuestions)
+   questions=loadedQuestions;
    startGame()
+})
+.catch(err=>{
+   console.log(err);
 })
 
  //CONSTANTS
@@ -81,4 +85,3 @@ incrementScore = num =>{
    score+=num;
    scoreText.innerText=score;
 }
- startGame();
