@@ -12,24 +12,28 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to perform an action, so that I can achieve a goal. This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
 EXISTING FEATURES Feature 1 - allows users X to achieve Y, by having them fill out Z In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+- House quiz
+Users can answer 10 questions and house name will be displayed once they have completed all the questions.
 
-House quiz Users can answer 10 questions and house name will be displayed once they have completed all the questions.
+- Wand quiz 
+Users can answer 10 questions and a result showing the type of wand the user would use based on the answers they given.
 
-Wand quiz Users can answer 10 questions and a result showing the type of wand the user would use based on the answers they given.
+- Patronus quiz
+Users will answer 10 questions and a result showing the Patronus(spirit animal) the user would have based on the answers they given.
 
-Patronus quiz Users will answer 10 questions and a result showing the Patronus(spirit animal) the user would have based on the answers they given.
-
-Wiki in the wiki section, information about Harry Potter specifically about the quiz results they gotten will be displayed through the use of a json file. ... In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- Wiki 
+In the wiki section, information about Harry Potter specifically about the quiz results they gotten will be displayed through the use of a json file. ... In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 FEATURES LEFT TO IMPLEMENT:
 
-User account users are able to create an account with username and password to store their scores like their trivia, house, wand and patronus results
-
-Search filter Users will be able to search for specific wiki pages in the whole website.
-
-News and article API A new section in the navigation bar will lead to a page where an api will display news and articles about Harry Potter
-
-Forums In the forums section, users are able to post threads and comment on other threads Another feature idea
+- User account
+users are able to create an account with username and password to store their scores like their trivia, house, wand and patronus results
+- Search filter 
+Users will be able to search for specific wiki pages in the whole website.
+- News and article API 
+A new section in the navigation bar will lead to a page where an api will display news and articles about Harry Potter
+- Forums 
+In the forums section, users are able to post threads and comment on other threads Another feature idea
 
 Technologies Used: -Jquery -Javascript -HTML -Sketchfab
 
