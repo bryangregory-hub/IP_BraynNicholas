@@ -5,27 +5,28 @@ This project is a website made for fans of the Harry Potter series. Users of the
 
 DESIGN PROCESS Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. The website is primarily made for fans of the Harry Potter series and also for people who are curious about fantasy stories. Since Harry Potter is a massive franchise that captivates the imagination and passion of many people, fans and enthusiasts usually wonder how their life would be like if they were to live in a world of wizards, magic and fantasical creatures. Users of the websites are able to take short questionaires that asks personality questions and relate them to the world. For example, a house in Harry Potter is like a faction in the school of Hogwarts and each of them are associated with different traits. So when users take the house quiz, it determines which house they would beloing to. Once the user finds out which house they belong to and the different traits they represent, they will feel a sense of identity and relation towards the Harry Potter universe. In turn, they will also be immersed in the website. Other than the house quiz, there is also wand quiz which finds out which type of wand the person would use and the patronus quiz which is discovers what 'spirit animal' the user would have.
 
+ROLES:
+API developer - Bryan 
+Front-end developer - Nicholas
+
 Besides quizzes that try to relate to the user, there is also a trivia which tests how much the fans know about the series. At the end of the quiz, a score will be displayed showing how many questions they got correct. Users can also share their score with their friends and family through the share button
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
 As a user type, I want to perform an action, so that I can achieve a goal. This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
 
-EXISTING FEATURES Feature 1 - allows users X to achieve Y, by having them fill out Z In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+EXISTING FEATURES 
+Feature 1 - allows users X to achieve Y, by having them fill out Z In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 - House quiz
 Users can answer 10 questions and house name will be displayed once they have completed all the questions.
-
 - Wand quiz 
 Users can answer 10 questions and a result showing the type of wand the user would use based on the answers they given.
-
 - Patronus quiz
 Users will answer 10 questions and a result showing the Patronus(spirit animal) the user would have based on the answers they given.
-
 - Wiki 
 In the wiki section, information about Harry Potter specifically about the quiz results they gotten will be displayed through the use of a json file. ... In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 FEATURES LEFT TO IMPLEMENT:
-
 - User account
 users are able to create an account with username and password to store their scores like their trivia, house, wand and patronus results
 - Search filter 
