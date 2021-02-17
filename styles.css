@@ -390,6 +390,7 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+
 .househeading {
   font-family: 'Berkshire Swash', cursive;
   text-align: center;
@@ -6138,12 +6139,24 @@ a.close.disabled {
   object-fit: cover;
 }
 
+.sectionicon {
+  margin-left: 10%;
+}
+
 .bg-quiz{
   background-color: #005378;
 }
 
+.bg-houseinfo {
+  background-color: #888888;
+}
+
+.bg-pat{
+  background-color: #1a5a78;
+}
+
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #004c8c !important;
 }
 
 .bg-wand {
