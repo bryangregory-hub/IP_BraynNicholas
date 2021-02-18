@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What school does Harry Potter go to?",
+        "op1": "Mahoukotoro",
+        "op2": "Hogwarts",
+        "op3": "Ilvermorny",
+        "op4": "Beauxbatons Academy of Magic",
+        "answer": 1
+    },
+    {
+        "question": "What house does Harry Belong to?",
+        "op1": "Ravenclaw",
+        "op2": "Gryffindor",
+        "op3": "Slytherin",
+        "op4": "Hufflepuff",
+        "answer": 2
+    },
+    {
+        "question": "How did Harry get the scar on his head?",
+        "op1": "Voldemort tried to kill him when he was a baby",
+        "op2": "He was attacked by a basilisk",
+        "op3": "In a quidditch accident",
+        "op4": "He crashed the weasley's car into the whomping tree",
+        "answer": 1
+    },
+    {
+        "question": "What powers do dementors have over people?",
+        "op1": "They make them go crazy",
+        "op2": "They cause them to harm one another",
+        "op3": "They drain them of all happiness",
+        "op4": "They can enslave them",
+        "answer": 1
+    },
+    {
+        "question": "What does the imperius curse do?",
+        "op1": "Tortures",
+        "op2": "controls",
+        "op3": "Turns the person into a pig",
+        "op4": "Kills",
+        "answer": 2
+    },
+    {
+        "question": "Who impersonates Mad-Eye Moody, one of Harry's professors?",
+        "op1": "Voldemort",
+        "op2": "Sirius Black",
+        "op3": "Barty Crouch, Jr",
+        "op4": "Peter Pettigrew",
+        "answer": 3
+    },
+    {
+        "question": "Who was the one who killed Professor Dumbledore",
+        "op1": "Bellatrix LeStrange",
+        "op2": "Severus Snape",
+        "op3": "Draco Malfoy",
+        "op4": "Voldemort",
+        "answer": 2
+    },
+    {
+        "question": "How are Hogwarts students placed in their house?",
+        "op1": "They are assigned by Professor Dumbledore",
+        "op2": "The sorting hat",
+        "op3": "They can choose their own house",
+        "op4": "They will be assigned the same hose as their parents",
+        "answer": 1
+    },
+    {
+        "question": "What is a thestral?",
+        "op1": "A half giant",
+        "op2": "An invisible winged horse",
+        "op3": "An old pixie",
+        "op4": "A three headed dog",
+        "answer": 2
+    },
+    {
+        "question": "What is a Horcrux?",
+        "op1": "An object that contains a part of someone's soul",
+        "op2": "Mermaid Magic",
+        "op3": "An object that can reverse time",
+        "op4": "One of deathly hollows",
+        "answer": 2
+    }
+]

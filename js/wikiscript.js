@@ -12,4 +12,7 @@ fetch("json/wiki.json")
      document.querySelector("#wikipat").innerHTML = `<p style="font-size: 2rem;">${data[6].patronus}</p>`
      document.querySelector("#pathistory").innerHTML = `<p style="font-size: 2rem;">${data[7].pathistory}</p>`
      document.querySelector("#patcast").innerHTML = `<p style="font-size: 2rem;">${data[8].patcast}</p>`
+     document.querySelector("#housewiki").innerHTML = `<p style="font-size: 2rem;">${data[9].housewiki}</p>`
+     document.querySelector("#housesystem").innerHTML = `<p style="font-size: 2rem;">${data[10].housesystem}</p>`
  })
+
