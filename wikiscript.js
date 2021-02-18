@@ -1,5 +1,5 @@
 //fetches the questions from the json file and displays them
-fetch("wiki.json")
+fetch("json/wiki.json")
  .then(response => response.json())
  .then(data => {
      console.log(data)
@@ -9,4 +9,10 @@ fetch("wiki.json")
      document.querySelector("#wikigryfinddor").innerHTML = `<p style="font-size: 2rem;">${data[3].gryffindor}</p>`
      document.querySelector("#wikiwand").innerHTML = `<p style="font-size: 2rem;">${data[4].wand}</p>`
      document.querySelector("#wandhistory").innerHTML = `<p style="font-size: 2rem;">${data[5].whistory}</p>`
+     document.querySelector("#wikipat").innerHTML = `<p style="font-size: 2rem;">${data[6].patronus}</p>`
+     document.querySelector("#pathistory").innerHTML = `<p style="font-size: 2rem;">${data[7].pathistory}</p>`
+     document.querySelector("#patcast").innerHTML = `<p style="font-size: 2rem;">${data[8].patcast}</p>`
+     document.querySelector("#housewiki").innerHTML = `<p style="font-size: 2rem;">${data[9].housewiki}</p>`
+     document.querySelector("#housesystem").innerHTML = `<p style="font-size: 2rem;">${data[10].housesystem}</p>`
  })
+
