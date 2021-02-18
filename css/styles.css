@@ -6139,16 +6139,12 @@ a.close.disabled {
   object-fit: cover;
 }
 
-.sectionicon {
-  margin-left: 10%;
+#patimg {
+  margin-left: 15%;
 }
 
 .bg-quiz{
   background-color: #005378;
-}
-
-.bg-houseinfo {
-  background-color: #888888;
 }
 
 .bg-pat{

@@ -1,0 +1,125 @@
+
+
+[
+    {
+        "id": "sorting",
+        "questions":"Which trait do you associate with more",
+        "answers": 
+            {
+                "Hufflepuff":"Good",
+                "Slytherin":"Great",
+                "Ravenclaw":"Wise",
+                "Gryffindor":"Bold"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"Which place do you associate with more",
+        "answers": 
+            {
+                "Hufflepuff":"Home",
+                "Slytherin":"Sea",
+                "Ravenclaw":"Parchment",
+                "Gryffindor":"Log Fire"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"Which instrument would you use more of",
+        "answers": 
+            {
+                "Hufflepuff":"Trumpet",
+                "Slytherin":"Violin",
+                "Ravenclaw":"Piano",
+                "Gryffindor":"Drums"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"If you knew a classmate was cheating for a test what would you do",
+        "answers": 
+            {
+                "Hufflepuff":"Lie and say you don’t know",
+                "Slytherin":"Tell before the test",
+                "Ravenclaw":"Tell Flitwick and get points",
+                "Gryffindor":"Confront classmate"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"Which nightmare would frighten you most",
+        "answers": 
+            {
+                "Hufflepuff":"Waking up to find that all memories of you is lost and no one knows who you are",
+                "Slytherin":"Being forced to speak in a silly voice and everyone laughs at you",
+                "Ravenclaw":"At a very higt point with no barriers to stop you from falling",
+                "Gryffindor":"A locked room with only a keyhole visible and an eye staring at you through it"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"When you have past what would you like people to do when they hear your name",
+        "answers": 
+            {
+                "Hufflepuff":"Miss you, but smile",
+                "Slytherin":"Does not matter since im already dead, what matters is what people think of me when im alive",
+                "Ravenclaw":"Think with admiration of your achievements",
+                "Gryffindor":"Ask to hear more stories about your adventures"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"Which of these descriptions make you feel at ease or intrigued?",
+        "answers": 
+            {
+                "Hufflepuff":"Wide sunny grassy path",
+                "Slytherin":"Lantern-lit alley",
+                "Ravenclaw":"Cobbled ancient buildings path",
+                "Gryffindor":"Twisting woodsy path"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    },
+    {
+        "id": "sorting",
+        "questions":"You are enrolled in Hogarts! Which area of magic are you most excited to learn?",
+        "answers": 
+            {
+                "Hufflepuff":"Magical Creatures",
+                "Slytherin":"Hexes and Jinxes",
+                "Ravenclaw":"Every area of magic",
+                "Gryffindor":"Castle secrets"
+            },
+        "correctans1":"Hufflepuff",
+        "correctans2": "Slytherin",
+        "correctans3": "Ravenclaw",
+        "correctans4": "Gryffindor"
+    }
+    
+]
