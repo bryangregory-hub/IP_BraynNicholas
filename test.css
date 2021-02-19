@@ -1,21 +1,31 @@
 :root{
+    background-image: url("IP_images/background1.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #f0d09d;
     font-size: 62.5%;
 }
+
 
 *{
     box-sizing: border-box;
     font-family:Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: rgb(0, 0, 0);
+    
 }
 h1,h2,h3,h4{
+    
     margin-bottom: 1rem;
+    color:#000000 ;
+    
+    
 }
 h1{
-    font-size:5.4rem;
-    color: #664600;
+    font-size:6rem;
+    color: #d39511;
     margin-bottom: 5rem;
     text-align: center;
 }
@@ -83,7 +93,7 @@ h3{
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(235, 183, 86, 0.5);
     transform: translateY(-0.1rem);
     transition:transform 150ms;
 }
