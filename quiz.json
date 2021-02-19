@@ -79,5 +79,85 @@
          "Lily J. Potter",
          "Myrtle Warren"
        ]
-    }
+    },{
+      "questions":"What school does Harry Potter go to?",
+      "correct_answer":"Hogwarts",
+      "incorrect_answers":[
+         "Mahoukotoro",
+         "Ilvermorny",
+         "Beauxbatons Academy of Magic"
+      ]
+   }
+   ,{
+      "questions":"What house does Harry Belong to?",
+      "correct_answer":"Gryffindor",
+      "incorrect_answers":[
+        "Ravenclaw",
+        "Slytherin",
+        "Hufflepuff"
+      ]
+   }
+   ,{
+      "questions":"How did Harry get the scar on his head?",
+      "correct_answer":"Voldemort tried to kill him when he was a baby",
+      "incorrect_answers":[
+        "He was attacked by a basilisk",
+        "In a quidditch accident",
+        "He crashed the weasley's car into the whomping tree"
+      ]
+   }
+   ,{
+      "questions":"What powers do dementors have over people?",
+      "correct_answer":"They drain happiness and hope from them",
+      "incorrect_answers":[
+        "They cause them to harm one another",
+        "They drain them lifeless",
+        "They can enslave them"
+      ]
+   }
+   ,{
+      "questions":"What does the imperius curse do?",
+      "correct_answer":"controls",
+      "incorrect_answers":[
+        "Tortures",
+        "Turns the person into a pig",
+        "Kills"
+      ]
+   }
+   ,{
+      "questions":"Who impersonates Mad-Eye Moody, one of Harry's professors?",
+      "correct_answer":"Barty Crouch, Jr",
+      "incorrect_answers":[
+        "Voldemort",
+        "Sirius Black",
+        "Peter Pettigrew"
+      ]
+   }
+   ,{
+      "questions":"Who was the one who killed Professor Dumbledore",
+      "correct_answer":"Severus Snape",
+      "incorrect_answers":[
+        "Bellatrix LeStrange",
+        "Draco Malfoy",
+        "Voldemort"
+      ]
+   }
+   ,{
+      "questions":"What is a thestral?",
+      "correct_answer":"An invisible winged horse",
+      "incorrect_answers":[
+        "A half giant",
+        "An old pixie",
+        "A three headed dog"
+      ]
+   }
+   ,{
+      "questions":"What is a Horcrux?",
+      "correct_answer":"An object that contains a part of someone's soul",
+      "incorrect_answers":[
+        "Mermaid Magic",
+        "An object that can reverse time",
+        "One of deathly hollows"
+      ]
+   }
  ]

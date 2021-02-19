@@ -25,9 +25,9 @@
     },
     {
         "question": "What powers do dementors have over people?",
-        "op1": "They make them go crazy",
+        "op1": "They drain happiness and hope from them",
         "op2": "They cause them to harm one another",
-        "op3": "They drain them of all happiness",
+        "op3": "They drain them lifeless",
         "op4": "They can enslave them",
         "answer": 1
     },
